@@ -1,0 +1,3124 @@
+Batch 1 :
+Logistic Regression
+Accuracy 68.14903801113542 %
+Confusion Matrix:
+[[731. 307.]
+ [351. 678.]]
+Precision: 0.6756007393715342
+Recall: 0.7042389210019268
+
+
+Naive Bayes:
+Accuracy 68.892172423806 %
+Confusion Matrix:
+[[716. 322.]
+ [321. 708.]]
+Precision: 0.6904532304725168
+Recall: 0.6897880539499036
+
+
+Random Forest:
+Accuracy 60.46462640720176 %
+Confusion Matrix:
+[[899. 139.]
+ [631. 398.]]
+Precision: 0.5875816993464053
+Recall: 0.8660886319845857
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.003285494040983309
+Cluster Centers: 
+[0.04945195 0.04817742 0.04677543 ... 0.00038236 0.00050981 0.00038236]
+[0.07142857 0.03571429 0.02380952 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 2 :
+Logistic Regression
+Accuracy 68.44313847236963 %
+Confusion Matrix:
+[[597. 442.]
+ [194. 808.]]
+Precision: 0.7547408343868521
+Recall: 0.5745909528392685
+
+
+Naive Bayes:
+Accuracy 68.61595180279204 %
+Confusion Matrix:
+[[741. 298.]
+ [342. 660.]]
+Precision: 0.6842105263157895
+Recall: 0.7131857555341675
+
+
+Random Forest:
+Accuracy 61.81746108012547 %
+Confusion Matrix:
+[[921. 118.]
+ [612. 390.]]
+Precision: 0.6007827788649707
+Recall: 0.8864292589027911
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.12985075148889313
+Cluster Centers: 
+[0.05197015 0.04634114 0.04673387 ... 0.00065454 0.00065454 0.00052363]
+[0.05673759 0.0212766  0.05673759 ... 0.         0.         0.        ]
+[0.0726257  0.09497207 0.02234637 ... 0.         0.         0.        ]
+
+
+Batch 3 :
+Logistic Regression
+Accuracy 69.71672881847336 %
+Confusion Matrix:
+[[727. 285.]
+ [324. 676.]]
+Precision: 0.6917221693625119
+Recall: 0.7183794466403162
+
+
+Naive Bayes:
+Accuracy 70.42237232171375 %
+Confusion Matrix:
+[[698. 314.]
+ [281. 719.]]
+Precision: 0.7129724208375894
+Recall: 0.6897233201581028
+
+
+Random Forest:
+Accuracy 62.77000235876598 %
+Confusion Matrix:
+[[910. 102.]
+ [600. 400.]]
+Precision: 0.6026490066225165
+Recall: 0.8992094861660079
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.30252920298744257
+Cluster Centers: 
+[0.05173494 0.04973068 0.04634849 ... 0.00062633 0.00050106 0.00062633]
+[0. 0. 0. ... 0. 0. 0.]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 4 :
+Logistic Regression
+Accuracy 70.26600081486917 %
+Confusion Matrix:
+[[764. 251.]
+ [356. 675.]]
+Precision: 0.6821428571428572
+Recall: 0.7527093596059113
+
+
+Naive Bayes:
+Accuracy 70.77089793593817 %
+Confusion Matrix:
+[[728. 287.]
+ [311. 720.]]
+Precision: 0.7006737247353224
+Recall: 0.7172413793103448
+
+
+Random Forest:
+Accuracy 60.81707001057738 %
+Confusion Matrix:
+[[901. 114.]
+ [637. 394.]]
+Precision: 0.5858257477243173
+Recall: 0.8876847290640394
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.18571154082705366
+Cluster Centers: 
+[0.05322092 0.04913714 0.05045449 ... 0.00052694 0.00052694 0.00065867]
+[0.01851852 0.05555556 0.11111111 ... 0.         0.         0.        ]
+[0.05177994 0.10032362 0.02588997 ... 0.         0.00323625 0.        ]
+
+
+Batch 5 :
+Logistic Regression
+Accuracy 68.39798265460031 %
+Confusion Matrix:
+[[718. 267.]
+ [377. 678.]]
+Precision: 0.6557077625570776
+Recall: 0.7289340101522843
+
+
+Naive Bayes:
+Accuracy 68.77937954930229 %
+Confusion Matrix:
+[[696. 289.]
+ [348. 707.]]
+Precision: 0.6666666666666666
+Recall: 0.7065989847715736
+
+
+Random Forest:
+Accuracy 58.325039512131326 %
+Confusion Matrix:
+[[875. 110.]
+ [682. 373.]]
+Precision: 0.5619781631342325
+Recall: 0.8883248730964467
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19683476476627765
+Cluster Centers: 
+[0.04933687 0.04880637 0.04708223 ... 0.0005305  0.00013263 0.0005305 ]
+[0.10769231 0.06153846 0.08205128 ... 0.         0.00512821 0.        ]
+[0.13333333 0.04       0.03555556 ... 0.         0.00444444 0.00444444]
+
+
+Batch 6 :
+Logistic Regression
+Accuracy 70.14480818828645 %
+Confusion Matrix:
+[[734. 283.]
+ [321. 686.]]
+Precision: 0.6957345971563981
+Recall: 0.7217305801376598
+
+
+Naive Bayes:
+Accuracy 69.95977034972405 %
+Confusion Matrix:
+[[705. 312.]
+ [296. 711.]]
+Precision: 0.7042957042957043
+Recall: 0.6932153392330384
+
+
+Random Forest:
+Accuracy 66.98812381032117 %
+Confusion Matrix:
+[[829. 188.]
+ [467. 540.]]
+Precision: 0.6396604938271605
+Recall: 0.8151425762045231
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.21739597079970358
+Cluster Centers: 
+[0.         0.04946092 0.04716981 ... 0.00053908 0.00040431 0.00040431]
+[1.04109589 0.02465753 0.03013699 ... 0.         0.         0.00273973]
+[0.09424084 0.04188482 0.07329843 ... 0.         0.0052356  0.        ]
+
+
+Batch 7 :
+Logistic Regression
+Accuracy 68.87365088076787 %
+Confusion Matrix:
+[[623. 449.]
+ [188. 810.]]
+Precision: 0.7681874229346486
+Recall: 0.5811567164179104
+
+
+Naive Bayes:
+Accuracy 71.59289672773399 %
+Confusion Matrix:
+[[807. 265.]
+ [322. 676.]]
+Precision: 0.7147918511957484
+Recall: 0.7527985074626866
+
+
+Random Forest:
+Accuracy 60.76403025893631 %
+Confusion Matrix:
+[[920. 152.]
+ [613. 385.]]
+Precision: 0.6001304631441617
+Recall: 0.8582089552238806
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.22239759140290566
+Cluster Centers: 
+[0.04545455 0.04844156 0.04597403 ... 0.00025974 0.00051948 0.00051948]
+[0.05263158 0.05263158 0.10526316 ... 0.         0.         0.        ]
+[0.07582938 0.06161137 0.07109005 ... 0.         0.         0.00473934]
+
+
+Batch 8 :
+Logistic Regression
+Accuracy 70.13888653704063 %
+Confusion Matrix:
+[[654. 305.]
+ [269. 695.]]
+Precision: 0.7085590465872156
+Recall: 0.6819603753910324
+
+
+Naive Bayes:
+Accuracy 70.69576086998534 %
+Confusion Matrix:
+[[708. 251.]
+ [312. 652.]]
+Precision: 0.6941176470588235
+Recall: 0.7382690302398331
+
+
+Random Forest:
+Accuracy 55.40864191271469 %
+Confusion Matrix:
+[[887.  72.]
+ [696. 268.]]
+Precision: 0.560328490208465
+Recall: 0.9249217935349322
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.15119222352416672
+Cluster Centers: 
+[0.05365088 0.05391259 0.04723894 ... 0.00039257 0.00052342 0.00052342]
+[0.07692308 0.08119658 0.07264957 ... 0.0042735  0.0042735  0.        ]
+[0.06467662 0.02985075 0.07462687 ... 0.         0.         0.        ]
+
+
+Batch 9 :
+Logistic Regression
+Accuracy 70.76164622354575 %
+Confusion Matrix:
+[[678. 318.]
+ [264. 732.]]
+Precision: 0.7197452229299363
+Recall: 0.6807228915662651
+
+
+Naive Bayes:
+Accuracy 70.93208671017146 %
+Confusion Matrix:
+[[714. 282.]
+ [297. 699.]]
+Precision: 0.7062314540059347
+Recall: 0.7168674698795181
+
+
+Random Forest:
+Accuracy 65.78253253971835 %
+Confusion Matrix:
+[[531. 465.]
+ [205. 791.]]
+Precision: 0.7214673913043478
+Recall: 0.5331325301204819
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19501467562708014
+Cluster Centers: 
+[0.05303761 0.04656289 0.04725169 ... 0.00041328 0.0006888  0.00055104]
+[0.04315197 0.0956848  0.05440901 ... 0.00375235 0.         0.        ]
+[0.04166667 0.07407407 0.01388889 ... 0.         0.         0.        ]
+
+
+Batch 10 :
+Logistic Regression
+Accuracy 70.02162594801058 %
+Confusion Matrix:
+[[642. 298.]
+ [281. 711.]]
+Precision: 0.695557963163597
+Recall: 0.6829787234042554
+
+
+Naive Bayes:
+Accuracy 69.92311303230974 %
+Confusion Matrix:
+[[680. 260.]
+ [321. 671.]]
+Precision: 0.6793206793206793
+Recall: 0.723404255319149
+
+
+Random Forest:
+Accuracy 57.0366124386303 %
+Confusion Matrix:
+[[837. 103.]
+ [664. 328.]]
+Precision: 0.5576282478347768
+Recall: 0.8904255319148936
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17629672819703232
+Cluster Centers: 
+[0.05347665 0.04471868 0.         ... 0.00039809 0.00053079 0.00053079]
+[0.04692082 0.03812317 1.03519062 ... 0.         0.         0.        ]
+[0.09424084 0.05759162 0.05235602 ... 0.         0.         0.        ]
+
+
+Batch 11 :
+Logistic Regression
+Accuracy 69.96509975806073 %
+Confusion Matrix:
+[[681. 337.]
+ [268. 730.]]
+Precision: 0.7175974710221286
+Recall: 0.668958742632613
+
+
+Naive Bayes:
+Accuracy 71.17966918109614 %
+Confusion Matrix:
+[[715. 303.]
+ [278. 720.]]
+Precision: 0.7200402819738168
+Recall: 0.7023575638506876
+
+
+Random Forest:
+Accuracy 64.9687628129227 %
+Confusion Matrix:
+[[515. 503.]
+ [187. 811.]]
+Precision: 0.7336182336182336
+Recall: 0.5058939096267191
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.03956450095024821
+Cluster Centers: 
+[0.04708548 0.04821856 0.04167191 ... 0.00050359 0.00050359 0.00037769]
+[0.15 0.05 0.05 ... 0.   0.   0.  ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 12 :
+Logistic Regression
+Accuracy 70.85189303523606 %
+Confusion Matrix:
+[[681. 301.]
+ [267. 700.]]
+Precision: 0.7183544303797469
+Recall: 0.6934826883910387
+
+
+Naive Bayes:
+Accuracy 71.440708063572 %
+Confusion Matrix:
+[[733. 249.]
+ [307. 660.]]
+Precision: 0.7048076923076924
+Recall: 0.7464358452138493
+
+
+Random Forest:
+Accuracy 59.5437613740349 %
+Confusion Matrix:
+[[892.  90.]
+ [635. 332.]]
+Precision: 0.5841519318925998
+Recall: 0.9083503054989817
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.08118782542939997
+Cluster Centers: 
+[0.04910305 0.         0.04556763 ... 0.00052377 0.00052377 0.00039282]
+[0.02380952 1.03174603 0.05026455 ... 0.         0.0026455  0.        ]
+[0.16666667 0.         0.13888889 ... 0.         0.         0.        ]
+
+
+Batch 13 :
+Logistic Regression
+Accuracy 68.84215713900382 %
+Confusion Matrix:
+[[671. 351.]
+ [292. 752.]]
+Precision: 0.6967808930425753
+Recall: 0.6565557729941291
+
+
+Naive Bayes:
+Accuracy 68.91025412442805 %
+Confusion Matrix:
+[[730. 292.]
+ [350. 694.]]
+Precision: 0.6759259259259259
+Recall: 0.7142857142857143
+
+
+Random Forest:
+Accuracy 57.732291045000196 %
+Confusion Matrix:
+[[890. 132.]
+ [682. 362.]]
+Precision: 0.5661577608142494
+Recall: 0.8708414872798435
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.2041490471286121
+Cluster Centers: 
+[0.04748088 0.04352414 0.         ... 0.00039567 0.00052757 0.00039567]
+[0. 0. 0. ... 0. 0. 0.]
+[0.04843305 0.07692308 1.03133903 ... 0.002849   0.         0.002849  ]
+
+
+Batch 14 :
+Logistic Regression
+Accuracy 67.8350397469971 %
+Confusion Matrix:
+[[654. 361.]
+ [288. 717.]]
+Precision: 0.6942675159235668
+Recall: 0.6443349753694582
+
+
+Naive Bayes:
+Accuracy 69.38504947085468 %
+Confusion Matrix:
+[[730. 285.]
+ [333. 672.]]
+Precision: 0.6867356538099718
+Recall: 0.7192118226600985
+
+
+Random Forest:
+Accuracy 63.36060586658889 %
+Confusion Matrix:
+[[865. 150.]
+ [559. 446.]]
+Precision: 0.6074438202247191
+Recall: 0.8522167487684729
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.11082434537913535
+Cluster Centers: 
+[0.05265257 0.05039224 0.04720117 ... 0.00053184 0.00039888 0.00039888]
+[0.10526316 0.04678363 0.02339181 ... 0.         0.         0.        ]
+[0.00854701 0.05982906 0.01709402 ... 0.         0.00854701 0.00854701]
+
+
+Batch 15 :
+Logistic Regression
+Accuracy 69.53065191173921 %
+Confusion Matrix:
+[[763. 262.]
+ [350. 639.]]
+Precision: 0.6855345911949685
+Recall: 0.744390243902439
+
+
+Naive Bayes:
+Accuracy 69.6972151541641 %
+Confusion Matrix:
+[[735. 290.]
+ [320. 669.]]
+Precision: 0.6966824644549763
+Recall: 0.7170731707317073
+
+
+Random Forest:
+Accuracy 61.535948648306935 %
+Confusion Matrix:
+[[923. 102.]
+ [618. 371.]]
+Precision: 0.5989617131732641
+Recall: 0.9004878048780488
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13728861998039416
+Cluster Centers: 
+[0.04537771 0.0482382  0.04745807 ... 0.00065011 0.00065011 0.00052009]
+[0.0619469  0.03539823 0.05752212 ... 0.         0.         0.        ]
+[0.10144928 0.10144928 0.07246377 ... 0.         0.         0.        ]
+
+
+Batch 16 :
+Logistic Regression
+Accuracy 71.11275731058606 %
+Confusion Matrix:
+[[742. 247.]
+ [338. 700.]]
+Precision: 0.687037037037037
+Recall: 0.750252780586451
+
+
+Naive Bayes:
+Accuracy 71.34084414975578 %
+Confusion Matrix:
+[[714. 275.]
+ [306. 732.]]
+Precision: 0.7
+Recall: 0.7219413549039434
+
+
+Random Forest:
+Accuracy 62.978447809898256 %
+Confusion Matrix:
+[[872. 117.]
+ [596. 442.]]
+Precision: 0.5940054495912807
+Recall: 0.8816986855409504
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1607136341091908
+Cluster Centers: 
+[0.         0.05216683 0.04985736 ... 0.00067926 0.00040755 0.00067926]
+[0.06779661 0.04661017 0.04237288 ... 0.         0.         0.        ]
+[1.03989362 0.04255319 0.05053191 ... 0.         0.00265957 0.        ]
+
+
+Batch 17 :
+Logistic Regression
+Accuracy 69.48828950619092 %
+Confusion Matrix:
+[[741. 240.]
+ [365. 643.]]
+Precision: 0.6699819168173599
+Recall: 0.7553516819571865
+
+
+Naive Bayes:
+Accuracy 70.0711901240738 %
+Confusion Matrix:
+[[713. 268.]
+ [327. 681.]]
+Precision: 0.6855769230769231
+Recall: 0.7268093781855249
+
+
+Random Forest:
+Accuracy 56.99402865915998 %
+Confusion Matrix:
+[[927.  54.]
+ [712. 296.]]
+Precision: 0.565588773642465
+Recall: 0.944954128440367
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1588004171438856
+Cluster Centers: 
+[0.         0.0499737  0.04602841 ... 0.00065755 0.00052604 0.00039453]
+[1.04433498 0.04187192 0.03694581 ... 0.         0.         0.00246305]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 18 :
+Logistic Regression
+Accuracy 69.79975791851962 %
+Confusion Matrix:
+[[725. 255.]
+ [343. 660.]]
+Precision: 0.6788389513108615
+Recall: 0.7397959183673469
+
+
+Naive Bayes:
+Accuracy 72.0584816456125 %
+Confusion Matrix:
+[[722. 258.]
+ [296. 707.]]
+Precision: 0.7092337917485265
+Recall: 0.736734693877551
+
+
+Random Forest:
+Accuracy 62.23091681592386 %
+Confusion Matrix:
+[[864. 116.]
+ [592. 411.]]
+Precision: 0.5934065934065934
+Recall: 0.8816326530612245
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17049130723988662
+Cluster Centers: 
+[0.0463208  0.04910005 0.0424828  ... 0.00052938 0.00066173 0.00066173]
+[0.10135135 0.04054054 0.05405405 ... 0.         0.         0.        ]
+[0.0798722  0.02875399 0.04472843 ... 0.         0.         0.        ]
+
+
+Batch 19 :
+Logistic Regression
+Accuracy 70.07068698232459 %
+Confusion Matrix:
+[[701. 312.]
+ [300. 732.]]
+Precision: 0.7002997002997003
+Recall: 0.6920039486673247
+
+
+Naive Bayes:
+Accuracy 69.02991496540074 %
+Confusion Matrix:
+[[749. 264.]
+ [368. 664.]]
+Precision: 0.6705461056401074
+Recall: 0.7393879565646594
+
+
+Random Forest:
+Accuracy 53.77205115781556 %
+Confusion Matrix:
+[[946.  67.]
+ [770. 262.]]
+Precision: 0.5512820512820513
+Recall: 0.9338598223099703
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.04810743528865081
+Cluster Centers: 
+[0.0484558  0.04672524 0.04752396 ... 0.00053248 0.0006656  0.0006656 ]
+[0.09174312 0.10091743 0.03669725 ... 0.         0.         0.        ]
+[0.11555556 0.01333333 0.03111111 ... 0.         0.         0.        ]
+
+
+Batch 20 :
+Logistic Regression
+Accuracy 68.89701681722866 %
+Confusion Matrix:
+[[698. 259.]
+ [357. 668.]]
+Precision: 0.6616113744075829
+Recall: 0.7293625914315569
+
+
+Naive Bayes:
+Accuracy 70.13848068199617 %
+Confusion Matrix:
+[[685. 272.]
+ [320. 705.]]
+Precision: 0.681592039800995
+Recall: 0.7157784743991641
+
+
+Random Forest:
+Accuracy 54.83734786629406 %
+Confusion Matrix:
+[[897.  60.]
+ [741. 284.]]
+Precision: 0.5476190476190477
+Recall: 0.9373040752351097
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.20418956926763993
+Cluster Centers: 
+[0.04876099 0.04676259 0.04649614 ... 0.00039968 0.00039968 0.00053291]
+[0.11881188 0.07425743 0.04950495 ... 0.         0.         0.        ]
+[0.07419355 0.03225806 0.09354839 ... 0.         0.         0.        ]
+
+
+Batch 21 :
+Logistic Regression
+Accuracy 69.09549005247435 %
+Confusion Matrix:
+[[712. 340.]
+ [274. 659.]]
+Precision: 0.7221095334685599
+Recall: 0.6768060836501901
+
+
+Naive Bayes:
+Accuracy 70.54577961550052 %
+Confusion Matrix:
+[[775. 277.]
+ [307. 626.]]
+Precision: 0.7162661737523105
+Recall: 0.7366920152091255
+
+
+Random Forest:
+Accuracy 59.06043068072553 %
+Confusion Matrix:
+[[955.  97.]
+ [640. 293.]]
+Precision: 0.5987460815047022
+Recall: 0.9077946768060836
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.16629925030682907
+Cluster Centers: 
+[0.05010689 0.04823624 0.04569749 ... 0.00040086 0.00053447 0.00040086]
+[0.05936073 0.06392694 0.08219178 ... 0.         0.00456621 0.00456621]
+[0.06730769 0.07371795 0.07692308 ... 0.00320513 0.         0.        ]
+
+
+Batch 22 :
+Logistic Regression
+Accuracy 69.53394300081608 %
+Confusion Matrix:
+[[682. 341.]
+ [277. 730.]]
+Precision: 0.7111574556830031
+Recall: 0.6666666666666666
+
+
+Naive Bayes:
+Accuracy 69.62544481722726 %
+Confusion Matrix:
+[[743. 280.]
+ [336. 671.]]
+Precision: 0.6886005560704356
+Recall: 0.7262952101661779
+
+
+Random Forest:
+Accuracy 58.61489414995764 %
+Confusion Matrix:
+[[903. 120.]
+ [659. 348.]]
+Precision: 0.5781049935979513
+Recall: 0.8826979472140762
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.18877991739646258
+Cluster Centers: 
+[0.05158628 0.04384834 0.04939386 ... 0.00051586 0.00064483 0.00051586]
+[0.04347826 0.19565217 0.07246377 ... 0.         0.         0.        ]
+[0.02564103 0.06410256 0.03846154 ... 0.         0.         0.        ]
+
+
+Batch 23 :
+Logistic Regression
+Accuracy 71.66443618661673 %
+Confusion Matrix:
+[[704. 282.]
+ [287. 735.]]
+Precision: 0.7103935418768921
+Recall: 0.7139959432048681
+
+
+Naive Bayes:
+Accuracy 70.29280083921844 %
+Confusion Matrix:
+[[728. 258.]
+ [338. 684.]]
+Precision: 0.6829268292682927
+Recall: 0.7383367139959433
+
+
+Random Forest:
+Accuracy 57.72556430944357 %
+Confusion Matrix:
+[[884. 102.]
+ [681. 341.]]
+Precision: 0.5648562300319488
+Recall: 0.896551724137931
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.2558977558740762
+Cluster Centers: 
+[0.04748603 0.04494667 0.0440579  ... 0.00050787 0.00063484 0.00050787]
+[0.1047619  0.03809524 0.06666667 ... 0.         0.         0.        ]
+[0.         0.18181818 0.09090909 ... 0.         0.         0.        ]
+
+
+Batch 24 :
+Logistic Regression
+Accuracy 69.58311807721667 %
+Confusion Matrix:
+[[672. 325.]
+ [274. 699.]]
+Precision: 0.7103594080338267
+Recall: 0.6740220661985958
+
+
+Naive Bayes:
+Accuracy 69.6137125216709 %
+Confusion Matrix:
+[[724. 273.]
+ [325. 648.]]
+Precision: 0.6901811248808389
+Recall: 0.7261785356068204
+
+
+Random Forest:
+Accuracy 60.19630705380348 %
+Confusion Matrix:
+[[893. 104.]
+ [623. 350.]]
+Precision: 0.5890501319261213
+Recall: 0.8956870611835507
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.09726527826535775
+Cluster Centers: 
+[0.05098344 0.04321946 0.04503106 ... 0.000647   0.0005176  0.0005176 ]
+[0.03333333 0.26       0.04       ... 0.         0.         0.        ]
+[0.10526316 0.03289474 0.06578947 ... 0.         0.         0.        ]
+
+
+Batch 25 :
+Logistic Regression
+Accuracy 69.71534070065847 %
+Confusion Matrix:
+[[725. 337.]
+ [284. 704.]]
+Precision: 0.7185332011892963
+Recall: 0.6826741996233522
+
+
+Naive Bayes:
+Accuracy 70.88654248271814 %
+Confusion Matrix:
+[[751. 311.]
+ [286. 702.]]
+Precision: 0.7242044358727098
+Recall: 0.7071563088512242
+
+
+Random Forest:
+Accuracy 66.95626493027021 %
+Confusion Matrix:
+[[576. 486.]
+ [180. 808.]]
+Precision: 0.7619047619047619
+Recall: 0.5423728813559322
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.20593615657790365
+Cluster Centers: 
+[0.05502298 0.04950755 0.04924491 ... 0.0006566  0.0006566  0.00052528]
+[0.08083832 0.03892216 0.03293413 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 26 :
+Logistic Regression
+Accuracy 70.87837780375544 %
+Confusion Matrix:
+[[706. 275.]
+ [311. 720.]]
+Precision: 0.6941986234021632
+Recall: 0.7196738022426096
+
+
+Naive Bayes:
+Accuracy 70.24794877723629 %
+Confusion Matrix:
+[[729. 252.]
+ [346. 685.]]
+Precision: 0.6781395348837209
+Recall: 0.7431192660550459
+
+
+Random Forest:
+Accuracy 52.94114155908779 %
+Confusion Matrix:
+[[913.  68.]
+ [772. 259.]]
+Precision: 0.541839762611276
+Recall: 0.9306829765545361
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17756096480175645
+Cluster Centers: 
+[0.04780979 0.04858509 0.05104019 ... 0.00051686 0.00038765 0.00064608]
+[0.07142857 0.08163265 0.05102041 ... 0.         0.         0.        ]
+[0.02649007 0.03311258 0.09271523 ... 0.         0.         0.        ]
+
+
+Batch 27 :
+Logistic Regression
+Accuracy 70.52389599126549 %
+Confusion Matrix:
+[[748. 286.]
+ [308. 674.]]
+Precision: 0.7083333333333334
+Recall: 0.723404255319149
+
+
+Naive Bayes:
+Accuracy 71.42519700981507 %
+Confusion Matrix:
+[[716. 318.]
+ [258. 724.]]
+Precision: 0.7351129363449692
+Recall: 0.6924564796905223
+
+
+Random Forest:
+Accuracy 59.24665982088426 %
+Confusion Matrix:
+[[401. 633.]
+ [146. 836.]]
+Precision: 0.7330895795246801
+Recall: 0.38781431334622823
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1507765307566585
+Cluster Centers: 
+[0.0540651  0.04997957 0.05011576 ... 0.00027237 0.00068092 0.00054474]
+[0.0623053  0.0529595  0.03738318 ... 0.         0.         0.        ]
+[0.025    0.071875 0.075    ... 0.003125 0.       0.      ]
+
+
+Batch 28 :
+Logistic Regression
+Accuracy 70.91908464618204 %
+Confusion Matrix:
+[[710. 298.]
+ [290. 724.]]
+Precision: 0.71
+Recall: 0.7043650793650794
+
+
+Naive Bayes:
+Accuracy 70.52288806355641 %
+Confusion Matrix:
+[[754. 254.]
+ [341. 673.]]
+Precision: 0.6885844748858447
+Recall: 0.748015873015873
+
+
+Random Forest:
+Accuracy 59.399973469288135 %
+Confusion Matrix:
+[[891. 117.]
+ [648. 366.]]
+Precision: 0.5789473684210527
+Recall: 0.8839285714285714
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.20977486504251472
+Cluster Centers: 
+[0.04904705 0.04824737 0.04718113 ... 0.00053312 0.0006664  0.00039984]
+[0.05651106 0.03685504 0.04176904 ... 0.         0.         0.        ]
+[0.07352941 0.08823529 0.         ... 0.         0.         0.        ]
+
+
+Batch 29 :
+Logistic Regression
+Accuracy 69.9628296297492 %
+Confusion Matrix:
+[[618. 381.]
+ [215. 784.]]
+Precision: 0.7418967587034814
+Recall: 0.6186186186186187
+
+
+Naive Bayes:
+Accuracy 69.48367752152349 %
+Confusion Matrix:
+[[748. 251.]
+ [357. 642.]]
+Precision: 0.676923076923077
+Recall: 0.7487487487487487
+
+
+Random Forest:
+Accuracy 57.787692909112074 %
+Confusion Matrix:
+[[896. 103.]
+ [672. 327.]]
+Precision: 0.5714285714285714
+Recall: 0.8968968968968969
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14188864969565435
+Cluster Centers: 
+[0.05247238 0.04681746 0.04274066 ... 0.00026302 0.00052604 0.00052604]
+[0.0234375 0.03125   0.046875  ... 0.        0.0078125 0.       ]
+[0.07407407 0.05555556 0.05185185 ... 0.         0.         0.0037037 ]
+
+
+Batch 30 :
+Logistic Regression
+Accuracy 70.85780624178267 %
+Confusion Matrix:
+[[754. 263.]
+ [315. 654.]]
+Precision: 0.7053320860617399
+Recall: 0.7413962635201573
+
+
+Naive Bayes:
+Accuracy 70.5479225231175 %
+Confusion Matrix:
+[[715. 302.]
+ [283. 686.]]
+Precision: 0.7164328657314629
+Recall: 0.7030481809242871
+
+
+Random Forest:
+Accuracy 65.73523466715783 %
+Confusion Matrix:
+[[852. 165.]
+ [494. 475.]]
+Precision: 0.6329866270430906
+Recall: 0.8377581120943953
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1973165371668727
+Cluster Centers: 
+[0.04921845 0.04456789 0.04263015 ... 0.00064591 0.00064591 0.00051673]
+[0.06666667 0.05555556 0.01111111 ... 0.         0.         0.        ]
+[0.07103825 0.09836066 0.06557377 ... 0.         0.         0.        ]
+
+
+Batch 31 :
+Logistic Regression
+Accuracy 70.06831764918913 %
+Confusion Matrix:
+[[692. 258.]
+ [331. 687.]]
+Precision: 0.6764418377321603
+Recall: 0.728421052631579
+
+
+Naive Bayes:
+Accuracy 70.74017282742504 %
+Confusion Matrix:
+[[682. 268.]
+ [308. 710.]]
+Precision: 0.6888888888888889
+Recall: 0.7178947368421053
+
+
+Random Forest:
+Accuracy 60.48410834451883 %
+Confusion Matrix:
+[[841. 109.]
+ [623. 395.]]
+Precision: 0.5744535519125683
+Recall: 0.8852631578947369
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.16212392268104106
+Cluster Centers: 
+[0.04996014 0.04982727 0.04703694 ... 0.00066436 0.00026575 0.00053149]
+[0.0462963  0.02314815 0.07407407 ... 0.         0.         0.        ]
+[0.03448276 0.04482759 0.05862069 ... 0.         0.         0.        ]
+
+
+Batch 32 :
+Logistic Regression
+Accuracy 70.42816249135167 %
+Confusion Matrix:
+[[684. 302.]
+ [295. 738.]]
+Precision: 0.6986721144024515
+Recall: 0.6937119675456389
+
+
+Naive Bayes:
+Accuracy 70.27956223238436 %
+Confusion Matrix:
+[[713. 273.]
+ [327. 706.]]
+Precision: 0.6855769230769231
+Recall: 0.7231237322515213
+
+
+Random Forest:
+Accuracy 50.625977780572796 %
+Confusion Matrix:
+[[936.  50.]
+ [814. 219.]]
+Precision: 0.5348571428571428
+Recall: 0.949290060851927
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.09493848348039684
+Cluster Centers: 
+[0.05147059 0.00245098 0.05882353 ... 0.         0.         0.        ]
+[0.04873646 0.         0.04873646 ... 0.0005554  0.00041655 0.0005554 ]
+[0.04851752 1.04312668 0.04312668 ... 0.         0.         0.        ]
+
+
+Batch 33 :
+Logistic Regression
+Accuracy 68.65778325313431 %
+Confusion Matrix:
+[[636. 325.]
+ [287. 706.]]
+Precision: 0.6890574214517876
+Recall: 0.6618106139438086
+
+
+Naive Bayes:
+Accuracy 69.5956911529936 %
+Confusion Matrix:
+[[687. 274.]
+ [320. 673.]]
+Precision: 0.6822244289970208
+Recall: 0.7148803329864725
+
+
+Random Forest:
+Accuracy 59.105226463565444 %
+Confusion Matrix:
+[[857. 104.]
+ [639. 354.]]
+Precision: 0.5728609625668449
+Recall: 0.8917793964620188
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17164186405758594
+Cluster Centers: 
+[0.05096683 0.04943014 0.04430785 ... 0.00051223 0.00038417 0.00051223]
+[0.03977273 0.04545455 0.04545455 ... 0.         0.         0.        ]
+[0.04918033 0.         0.03278689 ... 0.         0.         0.        ]
+
+
+Batch 34 :
+Logistic Regression
+Accuracy 68.09753358554794 %
+Confusion Matrix:
+[[776. 287.]
+ [360. 611.]]
+Precision: 0.6830985915492958
+Recall: 0.7300094073377235
+
+
+Naive Bayes:
+Accuracy 68.91330600384885 %
+Confusion Matrix:
+[[756. 307.]
+ [325. 646.]]
+Precision: 0.6993524514338575
+Recall: 0.7111947318908749
+
+
+Random Forest:
+Accuracy 65.52076876806925 %
+Confusion Matrix:
+[[904. 159.]
+ [515. 456.]]
+Precision: 0.6370683579985905
+Recall: 0.8504233301975541
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.028728056835830944
+Cluster Centers: 
+[0.04989264 0.04711381 0.04850322 ... 0.00063155 0.00025262 0.00063155]
+[0.05263158 0.07894737 0.05263158 ... 0.         0.         0.        ]
+[0.         0.09090909 0.09090909 ... 0.         0.         0.        ]
+
+
+Batch 35 :
+Logistic Regression
+Accuracy 68.17150271812362 %
+Confusion Matrix:
+[[764. 299.]
+ [354. 638.]]
+Precision: 0.6833631484794276
+Recall: 0.7187206020696143
+
+
+Naive Bayes:
+Accuracy 68.06884817155806 %
+Confusion Matrix:
+[[742. 321.]
+ [335. 657.]]
+Precision: 0.6889507892293407
+Recall: 0.6980244590780809
+
+
+Random Forest:
+Accuracy 65.08680646379688 %
+Confusion Matrix:
+[[829. 234.]
+ [471. 521.]]
+Precision: 0.6376923076923077
+Recall: 0.779868297271872
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.18674791952414083
+Cluster Centers: 
+[0.04847179 0.04537498 0.04833715 ... 0.00040393 0.00053858 0.00053858]
+[0.06730769 0.06730769 0.05288462 ... 0.         0.00480769 0.        ]
+[0.07419355 0.04516129 0.04516129 ... 0.         0.         0.        ]
+
+
+Batch 36 :
+Logistic Regression
+Accuracy 68.53730727720814 %
+Confusion Matrix:
+[[770. 256.]
+ [361. 584.]]
+Precision: 0.6808134394341291
+Recall: 0.7504873294346979
+
+
+Naive Bayes:
+Accuracy 69.68137681414387 %
+Confusion Matrix:
+[[744. 282.]
+ [315. 630.]]
+Precision: 0.7025495750708215
+Recall: 0.7251461988304093
+
+
+Random Forest:
+Accuracy 58.784082010253044 %
+Confusion Matrix:
+[[941.  85.]
+ [650. 295.]]
+Precision: 0.5914519170333123
+Recall: 0.9171539961013645
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = -0.025765629651098017
+Cluster Centers: 
+[0.05109108 0.04743238 0.04769371 ... 0.00052267 0.00052267 0.00065334]
+[0.01639344 0.01639344 0.03278689 ... 0.         0.         0.        ]
+[0.07936508 0.06984127 0.05079365 ... 0.         0.         0.        ]
+
+
+Batch 37 :
+Logistic Regression
+Accuracy 70.49674359442515 %
+Confusion Matrix:
+[[686. 318.]
+ [257. 688.]]
+Precision: 0.7274655355249204
+Recall: 0.6832669322709163
+
+
+Naive Bayes:
+Accuracy 70.52442818268285 %
+Confusion Matrix:
+[[734. 270.]
+ [304. 641.]]
+Precision: 0.7071290944123314
+Recall: 0.7310756972111554
+
+
+Random Forest:
+Accuracy 59.57480751014164 %
+Confusion Matrix:
+[[859. 145.]
+ [595. 350.]]
+Precision: 0.5907840440165062
+Recall: 0.8555776892430279
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14369934957051278
+Cluster Centers: 
+[0.05017209 0.04778925 0.04725973 ... 0.0006619  0.00039714 0.00052952]
+[0.04201681 0.03781513 0.05042017 ... 0.         0.         0.        ]
+[0.05405405 0.04247104 0.04633205 ... 0.         0.         0.        ]
+
+
+Batch 38 :
+Logistic Regression
+Accuracy 69.09774658337142 %
+Confusion Matrix:
+[[695. 295.]
+ [314. 667.]]
+Precision: 0.688800792864222
+Recall: 0.702020202020202
+
+
+Naive Bayes:
+Accuracy 69.25329927926607 %
+Confusion Matrix:
+[[679. 311.]
+ [295. 686.]]
+Precision: 0.6971252566735113
+Recall: 0.6858585858585858
+
+
+Random Forest:
+Accuracy 65.91234202751055 %
+Confusion Matrix:
+[[845. 145.]
+ [504. 477.]]
+Precision: 0.6263899184581171
+Recall: 0.8535353535353535
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17719001962623154
+Cluster Centers: 
+[0.04985018 0.04944157 0.04426587 ... 0.00068101 0.00040861 0.00040861]
+[0.04126214 0.0631068  0.03398058 ... 0.         0.00242718 0.        ]
+[0.14545455 0.04363636 0.02545455 ... 0.         0.         0.        ]
+
+
+Batch 39 :
+Logistic Regression
+Accuracy 68.98166994063492 %
+Confusion Matrix:
+[[547. 426.]
+ [172. 818.]]
+Precision: 0.760778859527121
+Recall: 0.5621788283658787
+
+
+Naive Bayes:
+Accuracy 67.82735975307439 %
+Confusion Matrix:
+[[691. 282.]
+ [349. 641.]]
+Precision: 0.6644230769230769
+Recall: 0.710174717368962
+
+
+Random Forest:
+Accuracy 55.27050876631322 %
+Confusion Matrix:
+[[875.  98.]
+ [700. 290.]]
+Precision: 0.5555555555555556
+Recall: 0.8992805755395683
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17600397946587015
+Cluster Centers: 
+[0.04907652 0.04986807 0.04551451 ... 0.0005277  0.0005277  0.00065963]
+[0.05166052 0.0701107  0.0701107  ... 0.         0.         0.        ]
+[0.11290323 0.01612903 0.05913978 ... 0.         0.         0.        ]
+
+
+Batch 40 :
+Logistic Regression
+Accuracy 69.53095313305417 %
+Confusion Matrix:
+[[716. 274.]
+ [335. 675.]]
+Precision: 0.681255946717412
+Recall: 0.7232323232323232
+
+
+Naive Bayes:
+Accuracy 71.70067921086736 %
+Confusion Matrix:
+[[713. 277.]
+ [289. 721.]]
+Precision: 0.7115768463073853
+Recall: 0.7202020202020202
+
+
+Random Forest:
+Accuracy 62.29960332198105 %
+Confusion Matrix:
+[[821. 169.]
+ [558. 452.]]
+Precision: 0.5953589557650472
+Recall: 0.8292929292929293
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.16746739589728293
+Cluster Centers: 
+[0.05164319 0.         0.0435949  ... 0.00026828 0.00053655 0.00067069]
+[0.05555556 0.03333333 0.07777778 ... 0.00555556 0.         0.        ]
+[0.04931507 1.03013699 0.04931507 ... 0.00273973 0.         0.        ]
+
+
+Batch 41 :
+Logistic Regression
+Accuracy 69.81091672642783 %
+Confusion Matrix:
+[[679. 349.]
+ [251. 710.]]
+Precision: 0.7301075268817204
+Recall: 0.6605058365758755
+
+
+Naive Bayes:
+Accuracy 70.38200175884874 %
+Confusion Matrix:
+[[738. 290.]
+ [299. 662.]]
+Precision: 0.7116682738669238
+Recall: 0.7178988326848249
+
+
+Random Forest:
+Accuracy 62.9055060124565 %
+Confusion Matrix:
+[[481. 547.]
+ [169. 792.]]
+Precision: 0.74
+Recall: 0.4678988326848249
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19928305335311858
+Cluster Centers: 
+[0.         0.04761905 0.04573047 ... 0.00067449 0.00067449 0.00053959]
+[1.0245098  0.05392157 0.04411765 ... 0.         0.         0.        ]
+[0.         0.05263158 0.04736842 ... 0.         0.         0.        ]
+
+
+Batch 42 :
+Logistic Regression
+Accuracy 69.45949377429048 %
+Confusion Matrix:
+[[746. 215.]
+ [380. 618.]]
+Precision: 0.6625222024866785
+Recall: 0.7762747138397502
+
+
+Naive Bayes:
+Accuracy 69.87749185600198 %
+Confusion Matrix:
+[[691. 270.]
+ [320. 678.]]
+Precision: 0.6834817012858556
+Recall: 0.7190426638917794
+
+
+Random Forest:
+Accuracy 52.735366814375595 %
+Confusion Matrix:
+[[905.  56.]
+ [758. 240.]]
+Precision: 0.5441972339146122
+Recall: 0.9417273673257024
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.220527788098876
+Cluster Centers: 
+[0.04932558 0.04562285 0.         ... 0.00039672 0.00039672 0.00026448]
+[0.10091743 0.01834862 0.00917431 ... 0.         0.         0.        ]
+[0.04594595 0.06216216 1.02702703 ... 0.         0.         0.        ]
+
+
+Batch 43 :
+Logistic Regression
+Accuracy 68.16661932969275 %
+Confusion Matrix:
+[[707. 292.]
+ [342. 652.]]
+Precision: 0.6739752144899904
+Recall: 0.7077077077077077
+
+
+Naive Bayes:
+Accuracy 68.99136085059037 %
+Confusion Matrix:
+[[691. 308.]
+ [310. 684.]]
+Precision: 0.6903096903096904
+Recall: 0.6916916916916916
+
+
+Random Forest:
+Accuracy 63.95188684366556 %
+Confusion Matrix:
+[[787. 212.]
+ [492. 502.]]
+Precision: 0.6153244722439406
+Recall: 0.7877877877877878
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.24886115979676102
+Cluster Centers: 
+[0.04981336 0.04736774 0.04556571 ... 0.00051487 0.00051487 0.00038615]
+[1. 0. 0. ... 0. 0. 0.]
+[0.0464135  0.05485232 0.06751055 ... 0.00421941 0.         0.        ]
+
+
+Batch 44 :
+Logistic Regression
+Accuracy 67.87298884427464 %
+Confusion Matrix:
+[[635. 344.]
+ [295. 717.]]
+Precision: 0.6827956989247311
+Recall: 0.6486210418794689
+
+
+Naive Bayes:
+Accuracy 68.9049345437843 %
+Confusion Matrix:
+[[693. 286.]
+ [333. 679.]]
+Precision: 0.6754385964912281
+Recall: 0.7078651685393258
+
+
+Random Forest:
+Accuracy 59.06617452031399 %
+Confusion Matrix:
+[[875. 104.]
+ [653. 359.]]
+Precision: 0.5726439790575916
+Recall: 0.8937691521961185
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.07479831785116049
+Cluster Centers: 
+[0.05004526 0.04474331 0.04461399 ... 0.00064658 0.00038795 0.00051726]
+[0.10181818 0.04727273 0.04363636 ... 0.         0.         0.        ]
+[0. 1. 0. ... 0. 0. 0.]
+
+
+Batch 45 :
+Logistic Regression
+Accuracy 68.71722795771133 %
+Confusion Matrix:
+[[830. 197.]
+ [421. 558.]]
+Precision: 0.6634692246203038
+Recall: 0.8081791626095424
+
+
+Naive Bayes:
+Accuracy 70.19263304663339 %
+Confusion Matrix:
+[[722. 305.]
+ [293. 686.]]
+Precision: 0.7113300492610838
+Recall: 0.7030185004868549
+
+
+Random Forest:
+Accuracy 62.17247384532989 %
+Confusion Matrix:
+[[929.  98.]
+ [607. 372.]]
+Precision: 0.6048177083333334
+Recall: 0.9045764362220059
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.07681939505350677
+Cluster Centers: 
+[0.04752119 0.04456717 0.0443103  ... 0.00064218 0.00051374 0.00051374]
+[0. 0. 0. ... 0. 0. 0.]
+[0.07246377 0.03864734 0.02898551 ... 0.         0.         0.        ]
+
+
+Batch 46 :
+Logistic Regression
+Accuracy 69.24747866274639 %
+Confusion Matrix:
+[[706. 268.]
+ [337. 658.]]
+Precision: 0.6768935762224353
+Recall: 0.7248459958932238
+
+
+Naive Bayes:
+Accuracy 69.57931370671119 %
+Confusion Matrix:
+[[679. 295.]
+ [304. 691.]]
+Precision: 0.6907426246185148
+Recall: 0.6971252566735113
+
+
+Random Forest:
+Accuracy 62.82190904248832 %
+Confusion Matrix:
+[[850. 124.]
+ [572. 423.]]
+Precision: 0.5977496483825597
+Recall: 0.8726899383983573
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13241350106397476
+Cluster Centers: 
+[0.05490248 0.04742185 0.04835693 ... 0.00066791 0.00040075 0.00053433]
+[0.06521739 0.02173913 0.0310559  ... 0.         0.         0.00310559]
+[0.04932735 0.08071749 0.06726457 ... 0.         0.0044843  0.        ]
+
+
+Batch 47 :
+Logistic Regression
+Accuracy 68.93904399013637 %
+Confusion Matrix:
+[[745. 235.]
+ [385. 639.]]
+Precision: 0.6592920353982301
+Recall: 0.7602040816326531
+
+
+Naive Bayes:
+Accuracy 71.54260528005165 %
+Confusion Matrix:
+[[731. 249.]
+ [321. 703.]]
+Precision: 0.6948669201520913
+Recall: 0.7459183673469387
+
+
+Random Forest:
+Accuracy 57.248378496566296 %
+Confusion Matrix:
+[[919.  61.]
+ [712. 312.]]
+Precision: 0.5634580012262416
+Recall: 0.9377551020408164
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1255899465089031
+Cluster Centers: 
+[0.04977834 0.04939835 0.0458518  ... 0.00037999 0.00037999 0.00050665]
+[0. 0. 0. ... 0. 0. 0.]
+[0.05 0.03 0.03 ... 0.   0.   0.  ]
+
+
+Batch 48 :
+Logistic Regression
+Accuracy 68.67940950421846 %
+Confusion Matrix:
+[[692. 274.]
+ [343. 662.]]
+Precision: 0.6685990338164252
+Recall: 0.7163561076604554
+
+
+Naive Bayes:
+Accuracy 68.95256957198126 %
+Confusion Matrix:
+[[667. 299.]
+ [313. 692.]]
+Precision: 0.6806122448979591
+Recall: 0.6904761904761905
+
+
+Random Forest:
+Accuracy 62.56769992344915 %
+Confusion Matrix:
+[[846. 120.]
+ [581. 424.]]
+Precision: 0.5928521373510862
+Recall: 0.8757763975155279
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.3010629244593229
+Cluster Centers: 
+[0.04597848 0.04789959 0.04969262 ... 0.00038422 0.0005123  0.00064037]
+[0.33333333 0.         0.         ... 0.         0.         0.        ]
+[0.06880734 0.06422018 0.03669725 ... 0.         0.00458716 0.        ]
+
+
+Batch 49 :
+Logistic Regression
+Accuracy 71.83684913426788 %
+Confusion Matrix:
+[[780. 240.]
+ [323. 661.]]
+Precision: 0.7071622846781505
+Recall: 0.7647058823529411
+
+
+Naive Bayes:
+Accuracy 72.39585732641473 %
+Confusion Matrix:
+[[755. 265.]
+ [288. 696.]]
+Precision: 0.7238734419942474
+Recall: 0.7401960784313726
+
+
+Random Forest:
+Accuracy 63.93531076862074 %
+Confusion Matrix:
+[[843. 177.]
+ [522. 462.]]
+Precision: 0.6175824175824176
+Recall: 0.8264705882352941
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13872444435388312
+Cluster Centers: 
+[0.05464992 0.04703367 0.04663282 ... 0.00040086 0.00066809 0.00066809]
+[0.09295775 0.07042254 0.04788732 ... 0.         0.         0.        ]
+[0.07643312 0.08280255 0.04458599 ... 0.         0.         0.        ]
+
+
+Batch 50 :
+Logistic Regression
+Accuracy 68.24093639966196 %
+Confusion Matrix:
+[[567. 417.]
+ [206. 796.]]
+Precision: 0.7335058214747736
+Recall: 0.5762195121951219
+
+
+Naive Bayes:
+Accuracy 70.87914798199473 %
+Confusion Matrix:
+[[724. 260.]
+ [318. 684.]]
+Precision: 0.6948176583493282
+Recall: 0.7357723577235772
+
+
+Random Forest:
+Accuracy 60.62083370691066 %
+Confusion Matrix:
+[[822. 162.]
+ [586. 416.]]
+Precision: 0.5838068181818182
+Recall: 0.8353658536585366
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.24353254359600654
+Cluster Centers: 
+[0.04598437 0.04380684 0.04585628 ... 0.00064045 0.00051236 0.00038427]
+[0.02325581 0.08139535 0.04069767 ... 0.         0.         0.        ]
+[0.11428571 0.17142857 0.05714286 ... 0.         0.         0.        ]
+
+
+Batch 51 :
+Logistic Regression
+Accuracy 68.70358466594729 %
+Confusion Matrix:
+[[671. 307.]
+ [313. 690.]]
+Precision: 0.681910569105691
+Recall: 0.6860940695296524
+
+
+Naive Bayes:
+Accuracy 68.71700920425661 %
+Confusion Matrix:
+[[709. 269.]
+ [350. 653.]]
+Precision: 0.6694995278564684
+Recall: 0.7249488752556237
+
+
+Random Forest:
+Accuracy 53.651386573274465 %
+Confusion Matrix:
+[[920.  58.]
+ [752. 251.]]
+Precision: 0.5502392344497608
+Recall: 0.9406952965235174
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.26521311911942425
+Cluster Centers: 
+[0.05274448 0.05211356 0.0459306  ... 0.00050473 0.00063091 0.00037855]
+[0.02150538 0.08602151 0.05376344 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 52 :
+Logistic Regression
+Accuracy 69.76399328751 %
+Confusion Matrix:
+[[727. 255.]
+ [352. 676.]]
+Precision: 0.6737720111214087
+Recall: 0.7403258655804481
+
+
+Naive Bayes:
+Accuracy 70.55023814874414 %
+Confusion Matrix:
+[[703. 279.]
+ [313. 715.]]
+Precision: 0.6919291338582677
+Recall: 0.7158859470468432
+
+
+Random Forest:
+Accuracy 60.781116226359934 %
+Confusion Matrix:
+[[900.  82.]
+ [649. 379.]]
+Precision: 0.5810200129115558
+Recall: 0.9164969450101833
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.31454295873891214
+Cluster Centers: 
+[0.05048046 0.04843049 0.04714926 ... 0.00038437 0.00064061 0.00064061]
+[0.06593407 0.05494505 0.04945055 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 53 :
+Logistic Regression
+Accuracy 70.13065458088725 %
+Confusion Matrix:
+[[747. 281.]
+ [327. 682.]]
+Precision: 0.6955307262569832
+Recall: 0.7266536964980544
+
+
+Naive Bayes:
+Accuracy 69.15494859089486 %
+Confusion Matrix:
+[[686. 342.]
+ [286. 723.]]
+Precision: 0.7057613168724279
+Recall: 0.6673151750972762
+
+
+Random Forest:
+Accuracy 64.71430957219833 %
+Confusion Matrix:
+[[806. 222.]
+ [484. 525.]]
+Precision: 0.6248062015503876
+Recall: 0.7840466926070039
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1361807747798136
+Cluster Centers: 
+[0.04967235 0.04875491 0.04547837 ... 0.00039318 0.00013106 0.00065531]
+[0.02564103 0.03846154 0.04166667 ... 0.00320513 0.         0.        ]
+[0.04761905 0.04761905 0.0952381  ... 0.         0.         0.        ]
+
+
+Batch 54 :
+Logistic Regression
+Accuracy 68.00145585243223 %
+Confusion Matrix:
+[[562. 456.]
+ [182. 830.]]
+Precision: 0.7553763440860215
+Recall: 0.5520628683693517
+
+
+Naive Bayes:
+Accuracy 70.29517003765812 %
+Confusion Matrix:
+[[719. 299.]
+ [304. 708.]]
+Precision: 0.7028347996089932
+Recall: 0.706286836935167
+
+
+Random Forest:
+Accuracy 59.339146995560064 %
+Confusion Matrix:
+[[914. 104.]
+ [659. 353.]]
+Precision: 0.5810553083280356
+Recall: 0.8978388998035364
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = -0.01739509935526769
+Cluster Centers: 
+[0.05116398 0.04873369 0.04860578 ... 0.00051164 0.00063955 0.00038373]
+[0.04081633 0.01360544 0.06122449 ... 0.         0.         0.        ]
+[0.2 0.  0.  ... 0.  0.  0. ]
+
+
+Batch 55 :
+Logistic Regression
+Accuracy 68.38808478632889 %
+Confusion Matrix:
+[[671. 345.]
+ [287. 697.]]
+Precision: 0.7004175365344467
+Recall: 0.6604330708661418
+
+
+Naive Bayes:
+Accuracy 68.93625535154077 %
+Confusion Matrix:
+[[720. 296.]
+ [325. 659.]]
+Precision: 0.6889952153110048
+Recall: 0.7086614173228346
+
+
+Random Forest:
+Accuracy 54.07903533214146 %
+Confusion Matrix:
+[[931.  85.]
+ [732. 252.]]
+Precision: 0.5598316295850871
+Recall: 0.9163385826771654
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.15915840272258247
+Cluster Centers: 
+[0.05172414 0.04490778 0.04490778 ... 0.00053462 0.00066827 0.00053462]
+[0.07272727 0.05       0.06363636 ... 0.         0.         0.        ]
+[0.07718121 0.03691275 0.05033557 ... 0.         0.         0.        ]
+
+
+Batch 56 :
+Logistic Regression
+Accuracy 67.96708383045285 %
+Confusion Matrix:
+[[721. 333.]
+ [319. 662.]]
+Precision: 0.6932692307692307
+Recall: 0.6840607210626186
+
+
+Naive Bayes:
+Accuracy 67.73562865193983 %
+Confusion Matrix:
+[[775. 279.]
+ [375. 606.]]
+Precision: 0.6739130434782609
+Recall: 0.7352941176470589
+
+
+Random Forest:
+Accuracy 55.01864168351447 %
+Confusion Matrix:
+[[970.  84.]
+ [728. 253.]]
+Precision: 0.5712603062426383
+Recall: 0.920303605313093
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13882283083615232
+Cluster Centers: 
+[0.04924832 0.04872991 0.04432348 ... 0.0005184  0.0005184  0.000648  ]
+[0.04435484 0.03629032 0.02822581 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 57 :
+Logistic Regression
+Accuracy 70.26567338357177 %
+Confusion Matrix:
+[[767. 284.]
+ [325. 674.]]
+Precision: 0.7023809523809523
+Recall: 0.7297811607992388
+
+
+Naive Bayes:
+Accuracy 71.02107787812024 %
+Confusion Matrix:
+[[758. 293.]
+ [301. 698.]]
+Precision: 0.7157695939565628
+Recall: 0.7212178877259753
+
+
+Random Forest:
+Accuracy 63.34034908537522 %
+Confusion Matrix:
+[[842. 209.]
+ [522. 477.]]
+Precision: 0.6173020527859238
+Recall: 0.8011417697431018
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1459085311004368
+Cluster Centers: 
+[0.04831229 0.04728163 0.04328781 ... 0.00051533 0.0003865  0.00051533]
+[0.         0.04347826 0.08695652 ... 0.         0.         0.        ]
+[0.04242424 0.00606061 0.06060606 ... 0.         0.         0.        ]
+
+
+Batch 58 :
+Logistic Regression
+Accuracy 68.22761318969246 %
+Confusion Matrix:
+[[716. 262.]
+ [357. 618.]]
+Precision: 0.6672879776328052
+Recall: 0.7321063394683026
+
+
+Naive Bayes:
+Accuracy 68.6507887621757 %
+Confusion Matrix:
+[[691. 287.]
+ [325. 650.]]
+Precision: 0.6801181102362205
+Recall: 0.7065439672801636
+
+
+Random Forest:
+Accuracy 60.00568518308518 %
+Confusion Matrix:
+[[853. 125.]
+ [608. 367.]]
+Precision: 0.5838466803559206
+Recall: 0.8721881390593047
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14433754684958114
+Cluster Centers: 
+[0.         0.04828702 0.04451039 ... 0.00053952 0.00040464 0.0006744 ]
+[0.11111111 0.0651341  0.03448276 ... 0.         0.         0.        ]
+[1.0483871  0.03494624 0.0672043  ... 0.         0.         0.        ]
+
+
+Batch 59 :
+Logistic Regression
+Accuracy 68.67812415910882 %
+Confusion Matrix:
+[[758. 264.]
+ [360. 617.]]
+Precision: 0.6779964221824687
+Recall: 0.7416829745596869
+
+
+Naive Bayes:
+Accuracy 69.46589820125648 %
+Confusion Matrix:
+[[733. 289.]
+ [321. 656.]]
+Precision: 0.6954459203036053
+Recall: 0.7172211350293543
+
+
+Random Forest:
+Accuracy 61.33579692854112 %
+Confusion Matrix:
+[[929.  93.]
+ [621. 356.]]
+Precision: 0.5993548387096774
+Recall: 0.9090019569471625
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.18605485193285237
+Cluster Centers: 
+[0.04928418 0.04979095 0.0463702  ... 0.00050678 0.00038008 0.00050678]
+[0. 0. 0. ... 0. 0. 0.]
+[0.08490566 0.02830189 0.00943396 ... 0.         0.         0.        ]
+
+
+Batch 60 :
+Logistic Regression
+Accuracy 67.87644617885076 %
+Confusion Matrix:
+[[541. 392.]
+ [235. 805.]]
+Precision: 0.6971649484536082
+Recall: 0.579849946409432
+
+
+Naive Bayes:
+Accuracy 70.6228353772939 %
+Confusion Matrix:
+[[712. 221.]
+ [358. 682.]]
+Precision: 0.6654205607476635
+Recall: 0.7631296891747053
+
+
+Random Forest:
+Accuracy 50.18937804678496 %
+Confusion Matrix:
+[[896.  37.]
+ [816. 224.]]
+Precision: 0.5233644859813084
+Recall: 0.9603429796355841
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19422227965100072
+Cluster Centers: 
+[0.         0.05344642 0.044965   ... 0.00040388 0.0005385  0.0005385 ]
+[1.04368932 0.02427184 0.0461165  ... 0.         0.         0.        ]
+[0.06417112 0.06417112 0.04812834 ... 0.         0.00534759 0.        ]
+
+
+Batch 61 :
+Logistic Regression
+Accuracy 67.80771134539172 %
+Confusion Matrix:
+[[723. 292.]
+ [351. 634.]]
+Precision: 0.6731843575418994
+Recall: 0.7123152709359606
+
+
+Naive Bayes:
+Accuracy 68.44644124193192 %
+Confusion Matrix:
+[[705. 310.]
+ [321. 664.]]
+Precision: 0.6871345029239766
+Recall: 0.6945812807881774
+
+
+Random Forest:
+Accuracy 63.6182196039928 %
+Confusion Matrix:
+[[864. 151.]
+ [546. 439.]]
+Precision: 0.6127659574468085
+Recall: 0.8512315270935961
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14256594597096467
+Cluster Centers: 
+[0.04607804 0.0472766  0.04767612 ... 0.00066587 0.00053269 0.00039952]
+[0.05291005 0.07936508 0.04232804 ... 0.         0.00529101 0.00529101]
+[0.09602649 0.04304636 0.02649007 ... 0.         0.         0.        ]
+
+
+Batch 62 :
+Logistic Regression
+Accuracy 67.70117841490966 %
+Confusion Matrix:
+[[755. 255.]
+ [394. 615.]]
+Precision: 0.6570931244560487
+Recall: 0.7475247524752475
+
+
+Naive Bayes:
+Accuracy 69.06764340637798 %
+Confusion Matrix:
+[[727. 283.]
+ [341. 668.]]
+Precision: 0.6807116104868914
+Recall: 0.7198019801980198
+
+
+Random Forest:
+Accuracy 57.18707336738471 %
+Confusion Matrix:
+[[928.  82.]
+ [701. 308.]]
+Precision: 0.5696746470227133
+Recall: 0.9188118811881189
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1605962321720646
+Cluster Centers: 
+[0.05059278 0.         0.04370003 ... 0.00068927 0.00055142 0.00041356]
+[0.05865922 1.04189944 0.04189944 ... 0.         0.         0.        ]
+[0.07859079 0.00542005 0.08130081 ... 0.         0.         0.        ]
+
+
+Batch 63 :
+Logistic Regression
+Accuracy 68.93239810476165 %
+Confusion Matrix:
+[[678. 314.]
+ [328. 746.]]
+Precision: 0.6739562624254473
+Recall: 0.6834677419354839
+
+
+Naive Bayes:
+Accuracy 69.78719790764426 %
+Confusion Matrix:
+[[728. 264.]
+ [360. 714.]]
+Precision: 0.6691176470588235
+Recall: 0.7338709677419355
+
+
+Random Forest:
+Accuracy 53.186069710584825 %
+Confusion Matrix:
+[[927.  65.]
+ [796. 278.]]
+Precision: 0.5380150899593732
+Recall: 0.9344758064516129
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.11844021578041833
+Cluster Centers: 
+[0.04941052 0.04914558 0.04954299 ... 0.00052987 0.00066234 0.00052987]
+[0.01204819 0.01807229 0.04819277 ... 0.         0.         0.        ]
+[0.07762557 0.0456621  0.0456621  ... 0.         0.         0.        ]
+
+
+Batch 64 :
+Logistic Regression
+Accuracy 70.46380768629061 %
+Confusion Matrix:
+[[649. 303.]
+ [262. 700.]]
+Precision: 0.712403951701427
+Recall: 0.6817226890756303
+
+
+Naive Bayes:
+Accuracy 71.7154805028672 %
+Confusion Matrix:
+[[709. 243.]
+ [298. 664.]]
+Precision: 0.7040714995034757
+Recall: 0.7447478991596639
+
+
+Random Forest:
+Accuracy 58.91876723174043 %
+Confusion Matrix:
+[[854.  98.]
+ [629. 333.]]
+Precision: 0.5758597437626433
+Recall: 0.8970588235294118
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.15773105361038547
+Cluster Centers: 
+[0.05611249 0.0498633  0.04335373 ... 0.00039057 0.00026038 0.00052077]
+[0.05246914 0.07098765 0.04320988 ... 0.         0.00308642 0.        ]
+[0.04938272 0.04938272 0.03703704 ... 0.         0.         0.        ]
+
+
+Batch 65 :
+Logistic Regression
+Accuracy 68.36824705161445 %
+Confusion Matrix:
+[[668. 318.]
+ [291. 648.]]
+Precision: 0.6965589155370178
+Recall: 0.6774847870182555
+
+
+Naive Bayes:
+Accuracy 69.6656949172281 %
+Confusion Matrix:
+[[723. 263.]
+ [320. 619.]]
+Precision: 0.6931927133269415
+Recall: 0.7332657200811359
+
+
+Random Forest:
+Accuracy 54.21141845167819 %
+Confusion Matrix:
+[[922.  64.]
+ [710. 229.]]
+Precision: 0.5649509803921569
+Recall: 0.9350912778904665
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.16043398350419655
+Cluster Centers: 
+[0.04879276 0.04954728 0.04564889 ... 0.00037726 0.00050302 0.00025151]
+[0. 0. 0. ... 0. 0. 0.]
+[0.04918033 0.05737705 0.06557377 ... 0.         0.         0.        ]
+
+
+Batch 66 :
+Logistic Regression
+Accuracy 68.88706366009312 %
+Confusion Matrix:
+[[741. 285.]
+ [324. 610.]]
+Precision: 0.6957746478873239
+Recall: 0.7222222222222222
+
+
+Naive Bayes:
+Accuracy 69.29637906833639 %
+Confusion Matrix:
+[[716. 310.]
+ [292. 642.]]
+Precision: 0.7103174603174603
+Recall: 0.6978557504873294
+
+
+Random Forest:
+Accuracy 62.93428556361636 %
+Confusion Matrix:
+[[856. 170.]
+ [526. 408.]]
+Precision: 0.6193921852387844
+Recall: 0.834307992202729
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17838274729136525
+Cluster Centers: 
+[0.05409857 0.05042443 0.04510326 ... 0.00050678 0.00050678 0.00038008]
+[0.03030303 0.03030303 0.         ... 0.         0.         0.        ]
+[0.03508772 0.03508772 0.04385965 ... 0.         0.         0.        ]
+
+
+Batch 67 :
+Logistic Regression
+Accuracy 70.22659568651872 %
+Confusion Matrix:
+[[701. 327.]
+ [274. 717.]]
+Precision: 0.718974358974359
+Recall: 0.6819066147859922
+
+
+Naive Bayes:
+Accuracy 70.14286644734477 %
+Confusion Matrix:
+[[756. 272.]
+ [330. 661.]]
+Precision: 0.6961325966850829
+Recall: 0.7354085603112841
+
+
+Random Forest:
+Accuracy 65.0394580973836 %
+Confusion Matrix:
+[[551. 477.]
+ [219. 772.]]
+Precision: 0.7155844155844155
+Recall: 0.5359922178988327
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1398358135366633
+Cluster Centers: 
+[0.05034947 0.04620761 0.049314   ... 0.00051773 0.00064717 0.00051773]
+[0.04365079 0.07142857 0.04365079 ... 0.         0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 68 :
+Logistic Regression
+Accuracy 70.61294172254928 %
+Confusion Matrix:
+[[768. 275.]
+ [315. 652.]]
+Precision: 0.7091412742382271
+Recall: 0.7363374880153404
+
+
+Naive Bayes:
+Accuracy 71.44892732077446 %
+Confusion Matrix:
+[[749. 294.]
+ [280. 687.]]
+Precision: 0.7278911564625851
+Recall: 0.7181208053691275
+
+
+Random Forest:
+Accuracy 65.01634438954112 %
+Confusion Matrix:
+[[823. 220.]
+ [469. 498.]]
+Precision: 0.6369969040247678
+Recall: 0.7890699904122723
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1085805570431234
+Cluster Centers: 
+[0.         0.         0.04752038 ... 0.00055256 0.00055256 0.00013814]
+[0.00826446 1.07438017 0.0661157  ... 0.         0.         0.        ]
+[1.04381443 0.0257732  0.0257732  ... 0.         0.         0.        ]
+
+
+Batch 69 :
+Logistic Regression
+Accuracy 68.54108706539618 %
+Confusion Matrix:
+[[682. 331.]
+ [291. 673.]]
+Precision: 0.7009249743062693
+Recall: 0.6732477788746298
+
+
+Naive Bayes:
+Accuracy 69.65019380416868 %
+Confusion Matrix:
+[[714. 299.]
+ [301. 663.]]
+Precision: 0.7034482758620689
+Recall: 0.7048371174728529
+
+
+Random Forest:
+Accuracy 60.98499208871046 %
+Confusion Matrix:
+[[439. 574.]
+ [169. 795.]]
+Precision: 0.7220394736842105
+Recall: 0.43336623889437315
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19168051175115286
+Cluster Centers: 
+[0.         0.05077112 0.04681316 ... 0.00054593 0.00068241 0.00054593]
+[0. 0. 0. ... 0. 0. 0.]
+[0.6031746  0.07070707 0.04617605 ... 0.         0.         0.001443  ]
+
+
+Batch 70 :
+Logistic Regression
+Accuracy 66.14254310186868 %
+Confusion Matrix:
+[[542. 477.]
+ [198. 814.]]
+Precision: 0.7324324324324324
+Recall: 0.5318940137389597
+
+
+Naive Bayes:
+Accuracy 69.60065228786887 %
+Confusion Matrix:
+[[735. 284.]
+ [333. 679.]]
+Precision: 0.6882022471910112
+Recall: 0.7212953876349362
+
+
+Random Forest:
+Accuracy 66.13437808576525 %
+Confusion Matrix:
+[[569. 450.]
+ [230. 782.]]
+Precision: 0.7121401752190237
+Recall: 0.5583905789990187
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.154443821227611
+Cluster Centers: 
+[0.05185481 0.04932855 0.04733413 ... 0.00053184 0.00026592 0.00039888]
+[0.03016241 0.0324826  0.04640371 ... 0.00232019 0.00232019 0.00232019]
+[0.         0.17647059 0.11764706 ... 0.         0.         0.        ]
+
+
+Batch 71 :
+Logistic Regression
+Accuracy 69.41687620396203 %
+Confusion Matrix:
+[[724. 318.]
+ [299. 676.]]
+Precision: 0.70772238514174
+Recall: 0.6948176583493282
+
+
+Naive Bayes:
+Accuracy 70.61413695115867 %
+Confusion Matrix:
+[[768. 274.]
+ [318. 657.]]
+Precision: 0.7071823204419889
+Recall: 0.7370441458733206
+
+
+Random Forest:
+Accuracy 53.62349356146776 %
+Confusion Matrix:
+[[1003.   39.]
+ [ 763.  212.]]
+Precision: 0.5679501698754247
+Recall: 0.9625719769673704
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.33668069560223385
+Cluster Centers: 
+[0.04956085 0.05207026 0.0446675  ... 0.00037641 0.00050188 0.00037641]
+[0.16666667 0.         0.         ... 0.         0.         0.        ]
+[0. 0. 0. ... 1. 0. 0.]
+
+
+Batch 72 :
+Logistic Regression
+Accuracy 69.92384028017625 %
+Confusion Matrix:
+[[752. 283.]
+ [293. 588.]]
+Precision: 0.7196172248803828
+Recall: 0.7265700483091787
+
+
+Naive Bayes:
+Accuracy 71.00763580742884 %
+Confusion Matrix:
+[[744. 291.]
+ [265. 616.]]
+Precision: 0.7373637264618434
+Recall: 0.7188405797101449
+
+
+Random Forest:
+Accuracy 64.06785508736712 %
+Confusion Matrix:
+[[902. 133.]
+ [516. 365.]]
+Precision: 0.6361071932299013
+Recall: 0.8714975845410629
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.10477198043659589
+Cluster Centers: 
+[0.05238752 0.05113423 0.04699837 ... 0.00025066 0.00062664 0.00037599]
+[0.06666667 0.         0.         ... 0.         0.         0.        ]
+[0.08888889 0.02222222 0.1        ... 0.         0.         0.        ]
+
+
+Batch 73 :
+Logistic Regression
+Accuracy 69.63039744652365 %
+Confusion Matrix:
+[[716. 294.]
+ [306. 660.]]
+Precision: 0.700587084148728
+Recall: 0.7089108910891089
+
+
+Naive Bayes:
+Accuracy 69.769433218577 %
+Confusion Matrix:
+[[727. 283.]
+ [314. 652.]]
+Precision: 0.6983669548511047
+Recall: 0.7198019801980198
+
+
+Random Forest:
+Accuracy 52.52620063387536 %
+Confusion Matrix:
+[[950.  60.]
+ [754. 212.]]
+Precision: 0.5575117370892019
+Recall: 0.9405940594059405
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.27527468823416196
+Cluster Centers: 
+[0.05101516 0.04908764 0.0458751  ... 0.00038551 0.00051401 0.00038551]
+[0.05       0.07083333 0.05       ... 0.00416667 0.         0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 74 :
+Logistic Regression
+Accuracy 68.47401501762145 %
+Confusion Matrix:
+[[745. 250.]
+ [362. 593.]]
+Precision: 0.6729900632339657
+Recall: 0.7487437185929648
+
+
+Naive Bayes:
+Accuracy 69.19197149664124 %
+Confusion Matrix:
+[[721. 274.]
+ [326. 629.]]
+Precision: 0.6886341929321872
+Recall: 0.7246231155778895
+
+
+Random Forest:
+Accuracy 60.342731160376154 %
+Confusion Matrix:
+[[911.  84.]
+ [625. 330.]]
+Precision: 0.5930989583333334
+Recall: 0.9155778894472362
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.2049519610306453
+Cluster Centers: 
+[0.         0.04647371 0.04511483 ... 0.00054355 0.00054355 0.00027178]
+[0.00974026 0.09415584 0.06493506 ... 0.00324675 0.         0.        ]
+[1.03916449 0.03133159 0.04960836 ... 0.         0.         0.        ]
+
+
+Batch 75 :
+Logistic Regression
+Accuracy 69.56844877446997 %
+Confusion Matrix:
+[[663. 314.]
+ [285. 707.]]
+Precision: 0.6993670886075949
+Recall: 0.6786079836233367
+
+
+Naive Bayes:
+Accuracy 69.81742582378129 %
+Confusion Matrix:
+[[706. 271.]
+ [323. 669.]]
+Precision: 0.6861030126336248
+Recall: 0.7226202661207779
+
+
+Random Forest:
+Accuracy 55.620007814385616 %
+Confusion Matrix:
+[[898.  79.]
+ [708. 284.]]
+Precision: 0.5591531755915318
+Recall: 0.9191402251791198
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17841929147335175
+Cluster Centers: 
+[0.0486164  0.04480833 0.04671236 ... 0.00050774 0.00050774 0.00038081]
+[0.06504065 0.11382114 0.06504065 ... 0.         0.         0.        ]
+[0.2        0.13333333 0.         ... 0.         0.         0.        ]
+
+
+Batch 76 :
+Logistic Regression
+Accuracy 69.21096512354168 %
+Confusion Matrix:
+[[740. 276.]
+ [337. 641.]]
+Precision: 0.6870937790157846
+Recall: 0.7283464566929134
+
+
+Naive Bayes:
+Accuracy 69.39676486500855 %
+Confusion Matrix:
+[[723. 293.]
+ [317. 661.]]
+Precision: 0.6951923076923077
+Recall: 0.7116141732283464
+
+
+Random Forest:
+Accuracy 59.34270972777797 %
+Confusion Matrix:
+[[887. 129.]
+ [627. 351.]]
+Precision: 0.5858652575957728
+Recall: 0.8730314960629921
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.05420073525643863
+Cluster Centers: 
+[0.04656348 0.04630115 0.04603882 ... 0.00039349 0.00026233 0.00052466]
+[0.06761566 0.04982206 0.04626335 ... 0.         0.         0.        ]
+[0.01980198 0.02970297 0.03960396 ... 0.00990099 0.         0.        ]
+
+
+Batch 77 :
+Logistic Regression
+Accuracy 69.2443983681657 %
+Confusion Matrix:
+[[763. 246.]
+ [359. 608.]]
+Precision: 0.6800356506238859
+Recall: 0.7561942517343905
+
+
+Naive Bayes:
+Accuracy 70.34108954513833 %
+Confusion Matrix:
+[[720. 289.]
+ [297. 670.]]
+Precision: 0.7079646017699115
+Recall: 0.7135777998017839
+
+
+Random Forest:
+Accuracy 57.85818831629518 %
+Confusion Matrix:
+[[934.  75.]
+ [675. 292.]]
+Precision: 0.5804847731510255
+Recall: 0.9256689791873142
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.19749782756452586
+Cluster Centers: 
+[0.04952706 0.0451918  0.04821335 ... 0.00052549 0.00052549 0.00052549]
+[0.06222222 0.08       0.03555556 ... 0.         0.         0.        ]
+[0.0855615  0.0802139  0.03208556 ... 0.         0.00534759 0.        ]
+
+
+Batch 78 :
+Logistic Regression
+Accuracy 70.12006716562912 %
+Confusion Matrix:
+[[778. 264.]
+ [345. 656.]]
+Precision: 0.692787177203918
+Recall: 0.746641074856046
+
+
+Naive Bayes:
+Accuracy 69.8382404141908 %
+Confusion Matrix:
+[[745. 297.]
+ [319. 682.]]
+Precision: 0.700187969924812
+Recall: 0.7149712092130518
+
+
+Random Forest:
+Accuracy 58.80474256145389 %
+Confusion Matrix:
+[[969.  73.]
+ [687. 314.]]
+Precision: 0.5851449275362319
+Recall: 0.9299424184261037
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.1156508761969805
+Cluster Centers: 
+[0.         0.05084517 0.0448952  ... 0.00027045 0.00054091 0.00054091]
+[0.05357143 0.05357143 0.07142857 ... 0.         0.00595238 0.        ]
+[1.0177665  0.05329949 0.04314721 ... 0.         0.         0.        ]
+
+
+Batch 79 :
+Logistic Regression
+Accuracy 68.46101878865669 %
+Confusion Matrix:
+[[770. 303.]
+ [349. 648.]]
+Precision: 0.6881143878462913
+Recall: 0.7176141658900279
+
+
+Naive Bayes:
+Accuracy 68.9894490211731 %
+Confusion Matrix:
+[[748. 325.]
+ [317. 680.]]
+Precision: 0.7023474178403756
+Recall: 0.6971109040074557
+
+
+Random Forest:
+Accuracy 63.953547510354866 %
+Confusion Matrix:
+[[888. 185.]
+ [535. 462.]]
+Precision: 0.624033731553057
+Recall: 0.8275862068965517
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13619821072106683
+Cluster Centers: 
+[0.0560189  0.05073673 0.         ... 0.00069502 0.00055602 0.00041701]
+[0.06037736 0.0509434  0.6754717  ... 0.         0.         0.        ]
+[0.11650485 0.04368932 0.04368932 ... 0.         0.         0.00485437]
+
+
+Batch 80 :
+Logistic Regression
+Accuracy 68.80316421171695 %
+Confusion Matrix:
+[[738. 257.]
+ [364. 637.]]
+Precision: 0.6696914700544465
+Recall: 0.7417085427135678
+
+
+Naive Bayes:
+Accuracy 70.78105937079422 %
+Confusion Matrix:
+[[724. 271.]
+ [312. 689.]]
+Precision: 0.6988416988416989
+Recall: 0.7276381909547739
+
+
+Random Forest:
+Accuracy 63.82766999660963 %
+Confusion Matrix:
+[[854. 141.]
+ [551. 450.]]
+Precision: 0.6078291814946619
+Recall: 0.8582914572864322
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14586016401100632
+Cluster Centers: 
+[0.05016077 0.05067524 0.04900322 ... 0.00025723 0.00025723 0.00025723]
+[0.02380952 0.01190476 0.03571429 ... 0.01190476 0.         0.        ]
+[0.04137931 0.03448276 0.08965517 ... 0.         0.         0.0137931 ]
+
+
+Batch 81 :
+Logistic Regression
+Accuracy 71.70312752206934 %
+Confusion Matrix:
+[[778. 251.]
+ [319. 670.]]
+Precision: 0.7092069279854147
+Recall: 0.7560738581146744
+
+
+Naive Bayes:
+Accuracy 71.80148691614917 %
+Confusion Matrix:
+[[748. 281.]
+ [288. 701.]]
+Precision: 0.722007722007722
+Recall: 0.7269193391642371
+
+
+Random Forest:
+Accuracy 66.92709924910861 %
+Confusion Matrix:
+[[857. 172.]
+ [478. 511.]]
+Precision: 0.6419475655430712
+Recall: 0.8328474246841594
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.17195022135518356
+Cluster Centers: 
+[0.04885655 0.04586798 0.04547817 ... 0.00051975 0.00038981 0.00038981]
+[0.07017544 0.04561404 0.12280702 ... 0.         0.00350877 0.        ]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 82 :
+Logistic Regression
+Accuracy 69.21080891495093 %
+Confusion Matrix:
+[[761. 272.]
+ [351. 644.]]
+Precision: 0.6843525179856115
+Recall: 0.7366892545982575
+
+
+Naive Bayes:
+Accuracy 69.6767461947412 %
+Confusion Matrix:
+[[712. 321.]
+ [294. 701.]]
+Precision: 0.7077534791252486
+Recall: 0.6892545982575025
+
+
+Random Forest:
+Accuracy 60.9902798874281 %
+Confusion Matrix:
+[[419. 614.]
+ [137. 858.]]
+Precision: 0.7535971223021583
+Recall: 0.40561471442400776
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.14097371412881968
+Cluster Centers: 
+[0.04808861 0.04876401 0.04781845 ... 0.00054032 0.00054032 0.00054032]
+[0.11409396 0.08053691 0.05704698 ... 0.         0.         0.0033557 ]
+[0.03321033 0.05904059 0.03690037 ... 0.         0.         0.        ]
+
+
+Batch 83 :
+Logistic Regression
+Accuracy 68.53479796408448 %
+Confusion Matrix:
+[[615. 420.]
+ [211. 776.]]
+Precision: 0.7445520581113801
+Recall: 0.5942028985507246
+
+
+Naive Bayes:
+Accuracy 70.81365384047645 %
+Confusion Matrix:
+[[748. 287.]
+ [303. 684.]]
+Precision: 0.7117031398667936
+Recall: 0.7227053140096619
+
+
+Random Forest:
+Accuracy 61.7052110098996 %
+Confusion Matrix:
+[[883. 152.]
+ [583. 404.]]
+Precision: 0.602319236016371
+Recall: 0.8531400966183574
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13257153520734963
+Cluster Centers: 
+[0.05627764 0.05038188 0.04971191 ... 0.00066997 0.00066997 0.00026799]
+[0.07255521 0.04416404 0.02523659 ... 0.         0.         0.00315457]
+[0.06060606 0.05555556 0.06060606 ... 0.         0.         0.        ]
+
+
+Batch 84 :
+Logistic Regression
+Accuracy 69.87091221037127 %
+Confusion Matrix:
+[[716. 277.]
+ [315. 658.]]
+Precision: 0.6944713870029098
+Recall: 0.7210473313192346
+
+
+Naive Bayes:
+Accuracy 71.21132472182252 %
+Confusion Matrix:
+[[705. 288.]
+ [278. 695.]]
+Precision: 0.7171922685656155
+Recall: 0.7099697885196374
+
+
+Random Forest:
+Accuracy 61.72348824600843 %
+Confusion Matrix:
+[[876. 117.]
+ [590. 383.]]
+Precision: 0.597544338335607
+Recall: 0.8821752265861027
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.16798105255040643
+Cluster Centers: 
+[0.         0.05328409 0.04893168 ... 0.00065946 0.00065946 0.00065946]
+[1.02682927 0.02926829 0.05609756 ... 0.         0.         0.        ]
+[0.14285714 0.07142857 0.02380952 ... 0.         0.         0.        ]
+
+
+Batch 85 :
+Logistic Regression
+Accuracy 70.09562121539965 %
+Confusion Matrix:
+[[712. 272.]
+ [325. 688.]]
+Precision: 0.686595949855352
+Recall: 0.7235772357723578
+
+
+Naive Bayes:
+Accuracy 70.89954917591274 %
+Confusion Matrix:
+[[746. 238.]
+ [342. 671.]]
+Precision: 0.6856617647058824
+Recall: 0.758130081300813
+
+
+Random Forest:
+Accuracy 48.74116783311807 %
+Confusion Matrix:
+[[953.  31.]
+ [834. 179.]]
+Precision: 0.5332960268606604
+Recall: 0.9684959349593496
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.4309781021603416
+Cluster Centers: 
+[0.05483225 0.0440661  0.04719579 ... 0.00037556 0.00037556 0.00050075]
+[0. 0. 0. ... 0. 0. 0.]
+[0. 0. 0. ... 0. 0. 0.]
+
+
+Batch 86 :
+Logistic Regression
+Accuracy 68.91109411315668 %
+Confusion Matrix:
+[[744. 274.]
+ [330. 599.]]
+Precision: 0.6927374301675978
+Recall: 0.730844793713163
+
+
+Naive Bayes:
+Accuracy 69.66832476681422 %
+Confusion Matrix:
+[[738. 280.]
+ [310. 619.]]
+Precision: 0.7041984732824428
+Recall: 0.724950884086444
+
+
+Random Forest:
+Accuracy 62.013605342519206 %
+Confusion Matrix:
+[[832. 186.]
+ [525. 404.]]
+Precision: 0.6131171702284451
+Recall: 0.8172888015717092
+
+
+K-Means Clustering:
+Silhouette with squared euclidean distance = 0.13042504288703702
+Cluster Centers: 
+[0.05102726 0.04525312 0.04229891 ... 0.00067141 0.00053713 0.00053713]
+[0.05921053 0.05592105 0.07236842 ... 0.         0.         0.        ]
+[0.02980132 0.08278146 0.03311258 ... 0.         0.         0.        ]
+
+
+Batch 87 :
+Logistic Regression
+Accuracy 69.84664430748036 %
+Confusion Matrix:
+[[801. 229.]
+ [390. 645.]]
+Precision: 0.672544080604534
+Recall: 0.7776699029126214
+
+
+Naive Bayes:
+Accuracy 71.09521934022276 %
+Confusion Matrix:
+[[773. 257.]
+ [339. 696.]]
+Precision: 0.6951438848920863
+Recall: 0.7504854368932039
+
+
+Random Forest:
+Accuracy 59.18172576825984 %
+Confusion Matrix:
+[[950.  80.]
+ [690. 345.]]
+Precision: 0.5792682926829268
+Recall: 0.9223300970873787
+
+
